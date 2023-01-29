@@ -1,4 +1,4 @@
-# 基于python编写的Ras生成的小工具
+# 基于python编写生成rsa的小工具
 使用请安装依赖
 ```shell
 pip3 install rsa
